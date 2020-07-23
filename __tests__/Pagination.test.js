@@ -1,0 +1,2 @@
+describe('Pagination component', () => {
+})
