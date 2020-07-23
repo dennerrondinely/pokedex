@@ -1,3 +1,5 @@
 *.test.js
 config-overrides.js
 jsconfig.json
+serviceWorker.js
+__tests__
